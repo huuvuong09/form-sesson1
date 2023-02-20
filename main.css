@@ -1,0 +1,102 @@
+.form{
+    margin-top: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 470px;
+    border: 1px solid rgb(184, 152, 152);
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+.email{
+    width: 250px;
+    height: 40px;
+    margin-bottom: 15px;
+    border: 1px solid red;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding-left: 10px;
+
+}
+.password{
+    width: 250px;
+    height: 40px;
+    border: 1px solid red;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.google{
+    width: 250px;
+    height: 40px;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.facebook{
+    width: 250px;
+    height: 40px;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.apple{
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid red;
+    margin-bottom: 10px;
+}
+.twitter{
+    border-radius: 5px;
+    border: 1px solid red;
+    width: 250px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.login{
+    width: 250px;
+    height: 40px;
+    border: 1px solid red;
+    background: black;
+    color: white;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+.forgot{
+margin-left: 60%;
+}
+.forgot a{
+    text-decoration: none;
+    color: black;
+}
+.pos{
+    position: relative;
+}
+.goo{
+    position: absolute;
+    margin: 10px 0 0 10px;
+    color: rgb(236, 35, 35);
+}
+.p{
+    position: relative;
+    padding: 0 8px;
+}
+.hr-text{
+  position: relative;
+  top: 13px;
+  color: black;
+  margin: 0 75px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.font1{
+    font-size: 13px;
+}
+.font{
+    font-size: 12px;
+}
